@@ -1,3 +1,5 @@
+# NAME : SARISH VARSHAN V
+# REG NO : 212223230196
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
 # AIM:
